@@ -1,0 +1,6 @@
+# 【毕设】jsp085ssm知了堂财务报账管理系统hsg4282B6毕业设计
+
+免费安装<br>技术实现<br>开发语言:example.com:example.com:B/example.com:example.com:example.com:1万左右.<br>功能实现<br>详细功能请直接下载视频观看。以下信息为大体的功能介绍:<br>通过系统需求分析,本文主要介绍系统后台功能<br>本系统开发完成后，主要实现如下目标：<br>一个系统的开发至关重要的一点就在于对需求的分析。在研究调查的基础之上，对所开发的系统功能进行的详细分析总结，从而设计出完整的系统并将其实现。用户和开发人员的交流分析，使其达到理解程度，使系统功能达到。<br>下面分别简单阐述一下这几个功能模块需求。<br>example.com：登录功能主要分为用户登录用户子系统和管理员登录管理子系统两部分内容，用户在用户子系统登录页面进行登录，系统将用户填写的登录信息与用户已存在的用户名和密码进行验证，验证通过则登录成功。<br>example.com：用户可以根据自己当前的情况修改个人的信息。<br>example.com：添加账单记录：用户添加账单记录；编辑账单记录：用户修改账单记录信息；删除账单记录：用户删除账单记录；查询账单记录：用户查询个人账单记录；账单记录审核：管理员给用户添加的账单进行审核。<br>example.com：添加员工信息：管理员添加员工信息；编辑员工信息：管理员修改员工信息；删除员工信息：管理员删除员工信息；查询员工信息：管理员查询员工信息。<br>公告管理：添加公告信息：员工添加公告信息；编辑公告信息：员工修改公告信息；删除公告信息：员工删除公告信息；查询公告信息：员工查询公告信息。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/fFtRS" style="color: red;">https://mega-file.org/fFtRS</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
